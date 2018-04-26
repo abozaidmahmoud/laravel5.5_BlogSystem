@@ -1,0 +1,32 @@
+.cateogery_style{
+	padding: 1px 5px 2px 5px;
+  background-color: #34495e;
+  color: white;
+  border-radius: 25px;
+  margin: 11px;
+  display: inline-block;
+
+}
+
+.post_time{
+    color: rgb(128, 128, 142);
+    font-size: 15px;
+}
+
+.post_body{
+  background: rgb(218, 211, 212);
+  padding: 10px;
+  border-radius: 10px;
+  margin-top: 10px;
+  font-size: 18px;
+}
+.post_back{
+  background: #817C7C;
+  padding: 8px;
+  color: white;
+  border-radius: 18px;
+}
+
+.post_back:hover{
+	colo:black;
+}
